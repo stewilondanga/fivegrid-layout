@@ -13,13 +13,14 @@
   height: 1.5em;
 }
 
-/*ul {
+ul {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   grid-gap: 1em 4em;
   padding: 0 1em;
 }
-li {
+
+/*li {
   list-style: none;
   text-align: center;
 
