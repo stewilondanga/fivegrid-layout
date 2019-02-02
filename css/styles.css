@@ -31,11 +31,11 @@ li::before {
   display: block;
 }
 
-/*li:first-child {
+li:first-child {
   grid-column-start: 2;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
