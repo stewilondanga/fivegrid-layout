@@ -20,13 +20,13 @@ ul {
   padding: 0 1em;
 }
 
-/*li {
+li {
   list-style: none;
   text-align: center;
-
   grid-column-end: span 2;
 }
-li::before {
+
+/*li::before {
   content: "✨";
   display: block;
 }
