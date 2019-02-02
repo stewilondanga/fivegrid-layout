@@ -26,11 +26,12 @@ li {
   grid-column-end: span 2;
 }
 
-/*li::before {
+li::before {
   content: "✨";
   display: block;
 }
-li:first-child {
+
+/*li:first-child {
   grid-column-start: 2;
 }
 
